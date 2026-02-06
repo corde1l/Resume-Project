@@ -1,0 +1,12 @@
+.hero{
+background-color: #ACBAC4;
+}
+.profilePicture{
+
+    height: 200px;
+    border-radius: 25%;
+}
+.container{ 
+
+    display: inline-flex
+}
